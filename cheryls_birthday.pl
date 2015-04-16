@@ -1,13 +1,15 @@
 /* Problem (NY Times revised version)
 Albert and Bernard just met Cheryl. “When’s your birthday?” Albert asked Cheryl.
-Cheryl thought a second and said, “I’m not going to tell you, but I’ll give you some clues.” She wrote down a list of 10 dates:
+Cheryl thought a second and said, “I’m not going to tell you, but I’ll give you some clues.” 
+She wrote down a list of 10 dates:
 May 15, May 16, May 19
 June 17, June 18
 July 14, July 16
 August 14, August 15, August 17
 
 “My birthday is one of these,” she said.
-Then Cheryl whispered in Albert’s ear the month — and only the month — of her birthday. To Bernard, she whispered the day, and only the day. 
+Then Cheryl whispered in Albert’s ear the month — and only the month — of her birthday. 
+To Bernard, she whispered the day, and only the day. 
 “Can you figure it out now?” she asked Albert.
 Albert: I don’t know when your birthday is, but I know Bernard doesn’t know, either.
 Bernard: I didn’t know originally, but now I do.
