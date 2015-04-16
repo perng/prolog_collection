@@ -55,3 +55,12 @@ albert2(Month, Day):-
 
 cheryls_birthday(Month, Day):- albert2(Month, Day).
 
+
+/**********************************************************/
+/* run as: (I use SWI Prolog)
+
+ ?- cheryls_birthday(Month, Day).
+Month = 'July',
+Day = 16 .
+
+*/
